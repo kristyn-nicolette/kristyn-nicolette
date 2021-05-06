@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kristyn-nicolette
+- 👀 I’m interested in music, art, and helping others!
+- 🌱 I’m currently learning about front-end development.
+- 💞️ I’m looking to collaborate on fun front-end projects.
+- :computer: I'm currently a computer science student at University of Toronto.
